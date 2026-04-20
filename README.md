@@ -9,7 +9,7 @@ My core objective is to integrate Generative AI capabilities (Gemini, Claude, Ch
 | Session | Topic | Status | Key Deliverable |
 | :--- | :--- | :---: | :--- |
 | **01** | **AI landscape, tools, risks, mindset** | ✅ | 
-| **02** | **Secure IDE Copilots** | ⏳ | 
+| **02** | **Secure IDE Copilots** | ✅ | 
 | **03** | **Agents & Automation** | ⏳ | 
 | **04** | **Secure Supply Chain** | ⏳ | 
 | **05** | **Business Case Study** | ⏳ |
