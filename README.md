@@ -33,7 +33,7 @@ In this initial phase, we established the **Golden Rules** for AI-assisted devel
 
 -----
 
-### 🚀 Session 2: Advanced Prompting & IDE Symbiosis
+## 🚀 Session 2: Advanced Prompting & IDE Symbiosis
 In this session, we transitioned from basic code generation to **High-Precision Prompt Engineering**. We focused on the "Human-in-the-Loop" workflow, using the IDE as a collaborative environment where the engineer acts as the **Architect and Auditor**, and the AI as the **Implementation Engine**.
 
 #### Key Learning: The Structured Prompting Framework
