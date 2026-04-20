@@ -33,6 +33,30 @@ In this initial phase, we established the **Golden Rules** for AI-assisted devel
 
 -----
 
+### 🚀 Session 2: Advanced Prompting & IDE Symbiosis
+In this session, we transitioned from basic code generation to **High-Precision Prompt Engineering**. We focused on the "Human-in-the-Loop" workflow, using the IDE as a collaborative environment where the engineer acts as the **Architect and Auditor**, and the AI as the **Implementation Engine**.
+
+#### Key Learning: The Structured Prompting Framework
+We implemented a 5-pillar framework to eliminate ambiguity and technical debt:
+* **Identity (Role):** Assigning seniority and specialized domains (e.g., Cybersecurity Expert).
+* **Context:** Providing project architecture, conventions, and background.
+* **Instruction:** Direct, clear, and atomic actions.
+* **Constraints:** Strict guardrails (Forbidden libraries, line limits, signature preservation).
+* **Acceptance:** Binary success criteria and automated validation rules.
+
+#### Implemented Deliverables:
+- **Secure Lead Capture Module**: A full-stack contact form featuring **Dual-Layer Validation** (Client + Server).
+- **Refactoring Pipeline**: Application of **SRP (Single Responsibility Principle)** and **Decoupling** through targeted AI refactoring prompts.
+- **Defensive Validation Layer**: Integration of sanitization patterns to prevent **XSS** and **ReDoS** attacks.
+
+#### Technical Stack (Session 02)
+- **Tooling**: GitHub Copilot / Cursor (Context-aware assistance).
+- **Security**: Defense-in-depth through **Whitelist Validation**.
+- **Architecture**: Layered pattern (Separation of Validation, Business Logic, and HTTP Handlers).
+- **QA**: Regression testing with **Mocha & Chai** to ensure refactor integrity.
+
+---
+
 ## 🛡️ AI Development Manifesto (RULES.md)
 
 All code within this repository adheres to these non-negotiable guidelines:
