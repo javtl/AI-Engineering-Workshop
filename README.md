@@ -1,6 +1,6 @@
 # AI Engineering Workshop - IES Rafael Alberti 🛡️
 
-This repository documents my professional progression through the **"Secure Software Development assisted by AI"** course, led by Víctor Sáenz (CEO at mowomo) at IES Rafael Alberti (Cádiz).
+This repository documents my professional progression through the **"Secure Software Development assisted by AI"** course.
 
 My core objective is to integrate Generative AI capabilities (Gemini, Claude, ChatGPT) while maintaining **data sovereignty**, **code traceability**, and **financial-grade security standards**.
 
@@ -10,7 +10,7 @@ My core objective is to integrate Generative AI capabilities (Gemini, Claude, Ch
 | :--- | :--- | :---: | :--- |
 | **01** | **AI landscape, tools, risks, mindset** | ✅ | 
 | **02** | **Secure IDE Copilots** | ✅ | 
-| **03** | **Agents & Automation** | ⏳ | 
+| **03** | **Agents & Automation** | ✅ | 
 | **04** | **Secure Supply Chain** | ⏳ | 
 | **05** | **Business Case Study** | ⏳ |
 
